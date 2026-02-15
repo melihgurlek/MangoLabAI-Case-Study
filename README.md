@@ -1,4 +1,3 @@
-```markdown
 # Task Management API - Mini Case Study
 
 Bu proje in memory veri yapısı kullanan basit bir RESTful API servisidir.
@@ -6,7 +5,7 @@ Bu proje in memory veri yapısı kullanan basit bir RESTful API servisidir.
 ## Kurulum ve Çalıştırma
 
 Projeyi lokalinizde veya Docker üzerinden kolayca çalıştırabilirsiniz.
-
+```markdown
 ### Lokal Ortamda Çalıştırma
 ```bash
 # 1. Projeyi klonlayın.
