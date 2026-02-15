@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (Never share your secrets!)
+.env
+
+# NPM logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: macOS system files
+.DS_Store
+
+# Coverage directory used by testing tools (for Phase 2)
+coverage/
