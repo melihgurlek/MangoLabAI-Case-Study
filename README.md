@@ -5,8 +5,9 @@ Bu proje in memory veri yapısı kullanan basit bir RESTful API servisidir.
 ## Kurulum ve Çalıştırma
 
 Projeyi lokalinizde veya Docker üzerinden kolayca çalıştırabilirsiniz.
-```markdown
+
 ### Lokal Ortamda Çalıştırma
+```markdown
 ```bash
 # 1. Projeyi klonlayın.
 git clone https://github.com/melihgurlek/MangoLabAI-Case-Study.git
