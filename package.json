@@ -1,6 +1,7 @@
 {
   "name": "task-management-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Task Management API - Case Study",
   "main": "src/server.js",
   "scripts": {

@@ -10,5 +10,6 @@ app.get('/health', (req, res) => {
 
 export default app;
 export const listen = (port, callback) => {
-  app.listen(port, callback);
+  const server = app.listen(port, callback);
+  return server;
 };
